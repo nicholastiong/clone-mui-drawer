@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/clone-mui-drawer/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/clone-mui-drawer/static/js/main.f01389d6.chunk.js",
+    "main.js.map": "/clone-mui-drawer/static/js/main.f01389d6.chunk.js.map",
+    "runtime-main.js": "/clone-mui-drawer/static/js/runtime-main.713fe79f.js",
+    "runtime-main.js.map": "/clone-mui-drawer/static/js/runtime-main.713fe79f.js.map",
+    "static/js/2.faf2cf1b.chunk.js": "/clone-mui-drawer/static/js/2.faf2cf1b.chunk.js",
+    "static/js/2.faf2cf1b.chunk.js.map": "/clone-mui-drawer/static/js/2.faf2cf1b.chunk.js.map",
+    "static/js/3.d5f46e88.chunk.js": "/clone-mui-drawer/static/js/3.d5f46e88.chunk.js",
+    "static/js/3.d5f46e88.chunk.js.map": "/clone-mui-drawer/static/js/3.d5f46e88.chunk.js.map",
+    "index.html": "/clone-mui-drawer/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/clone-mui-drawer/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.faf2cf1b.chunk.js.LICENSE.txt": "/clone-mui-drawer/static/js/2.faf2cf1b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/clone-mui-drawer/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.713fe79f.js",
+    "static/js/2.faf2cf1b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f01389d6.chunk.js"
+  ]
+}
